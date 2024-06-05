@@ -44,6 +44,8 @@ Isso exibirá o uso de CPU, memória, I/O e outros recursos do contêiner node-t
 
 # Preparar Ambiente:
 ## Estrutura de arquivo:
+
+```
 C:.
 │   Dockerfile
 │   README.md
@@ -51,6 +53,7 @@ C:.
 └───app
         app.js
         package.json
+```
 
 ## Criação da Build docker: 
 cd C:\Users\pytho\Documents\GitHub\gsDocker
